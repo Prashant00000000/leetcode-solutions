@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 <!---LeetCode Topics End-->
