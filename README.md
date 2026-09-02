@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0724-find-pivot-index](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2270-number-of-ways-to-split-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
 |  |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [2270-number-of-ways-to-split-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
