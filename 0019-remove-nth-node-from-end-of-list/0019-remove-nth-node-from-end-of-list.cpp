@@ -14,26 +14,19 @@ public:
         if(head==NULL || head->next==NULL){
             return NULL ;
         }
-        ListNode* temp = head;
-        int count = 0;
-        while(temp!=NULL){
-            temp = temp->next;
-            count++;
-        }
-        if(count==n){
-            return head->next;
-        }
-        int res = count-n;
-         ListNode* temp2 = head;
-         while(res!=1){
-            if(temp2->next==NULL) break;
-            temp2 = temp2->next;
-            res--;
-         }
-         ListNode* temp3 = temp2->next;
-         temp2->next = temp2->next->next;
-        
-         delete temp3;
-         return head;
+       ListNode* fast = head;
+       ListNode* slow = head;
+       for(int i=0; i<n; i++){
+         fast = fast->next;
+       }
+       if(fast==NULL) return head->next;
+       while(fast->next!=NULL){
+        fast = fast->next;
+        slow = slow->next;
+       }
+       ListNode* deletenode = slow->next;
+       slow->next = slow->next->next;
+       delete deletenode;
+       return head;
     }
 };
