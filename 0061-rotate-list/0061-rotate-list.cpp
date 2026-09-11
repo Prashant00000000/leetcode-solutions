@@ -11,40 +11,39 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        ListNode* temp = head;
+        ListNode * temp2 = head;
+        int length = 0;
+        while(temp2!=NULL){
+            length++;
+            temp2 = temp2->next;
+        }
+        if(k!=0 && length!=0){
+        k = k% length;
+        }
+        if(head==NULL ){
+            return NULL;
+        }
+        if(head->next==NULL|| k==0){
+            return head;
+        }
+        ListNode* tail = head;
+
+        while(tail->next!=NULL){
+            tail = tail->next;
+        }
         
-        vector<int>ans;
+        ListNode* temp = head;
+            tail->next = temp;
+           int m = length - k - 1;
+         while(m != 0){
+         temp = temp->next;
+           m--;
+            }
 
-        if(head == NULL || head->next == NULL) return head;
-
-        while(temp!=NULL){
-            ans.push_back(temp->val); 
-            temp = temp->next;
-        }
-        int n = ans.size();
-
-        k = k%n;
-
-        // store last k elements
-        vector<int> temp2(k);
-        for (int i = 0; i < k; i++) {
-            temp2[i] = ans[n - k + i];
-        }
-         //  shift elements to the right
-        for (int i = n - 1; i >= k; i--) {
-            ans[i] = ans[i - k];
-        }
-        // put temp elements as begniing
-        for(int i=0; i<k; i++){
-            ans[i] = temp2[i];
-        }
-        int i =  0;
-         ListNode* temp4 = head;
-        while(temp4!=NULL && i<n){
-            temp4->val = ans[i];
-            i++; 
-            temp4 = temp4->next;
-        }
+       
+        head = temp->next;
+        temp->next  = NULL;
+        
         return head;
     }
 };
