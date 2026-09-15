@@ -10,35 +10,34 @@
  */
 class Solution {
 public:
-    ListNode* mergetwolist(ListNode* head, ListNode* second) {
-
-        if (head == NULL) return second;
-        if (second == NULL) return head;
-
-        ListNode* ans = NULL;
-
-        if (head->val < second->val) {
-            ans = head;
-            ans->next = mergetwolist(head->next, second);
-        }
-        else {
-            ans = second;
-            ans->next = mergetwolist(head, second->next);
-        }
-
-        return ans;
-    }
-
     ListNode* mergeKLists(vector<ListNode*>& lists) {
+ priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>,greater<pair<int, ListNode*>>> minheap;
 
-        if (lists.size() == 0) return NULL;
-
-        ListNode* head = lists[0];
-
-        for (int i = 1; i < lists.size(); i++) {
-            head = mergetwolist(head, lists[i]);
+        if(lists.size() == 0){
+            return NULL;
         }
 
-        return head;
+        for(int i = 0; i < lists.size(); i++){
+            if(lists[i] != NULL){
+                minheap.push({lists[i]->val, lists[i]});
+            }
+        }
+
+        ListNode* dummynode = new ListNode(-1);
+        ListNode* temp = dummynode;
+
+        while(!minheap.empty()){
+
+            auto pair = minheap.top();
+            minheap.pop();
+
+            temp->next = pair.second;
+            temp = temp->next;
+
+            if(pair.second->next != NULL){
+                minheap.push({pair.second->next->val,pair.second->next});
+            }
+        }
+        return dummynode->next;
     }
 };
