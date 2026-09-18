@@ -1,37 +1,35 @@
 class MyStack {
-private:
-    queue<int> q;
-
+    private:
+    queue<int>q;
 public:
     MyStack() {
+        
     }
-
+    
     void push(int x) {
         q.push(x);
-
         int s = q.size();
-
-        for(int i = 0; i < s - 1; i++) {
+        for(int i=1; i<s; i++){
             q.push(q.front());
             q.pop();
         }
     }
-
+    
     int pop() {
-        int ele = q.front();
-        q.pop();
-
-        return ele;
+       int ele = q.front();
+       q.pop();
+       return ele;
     }
-
+    
     int top() {
-        return q.front();
+      return  q.front();
     }
-
+    
     bool empty() {
         return q.empty();
     }
 };
+
 /**
  * Your MyStack object will be instantiated and called as such:
  * MyStack* obj = new MyStack();
