@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
