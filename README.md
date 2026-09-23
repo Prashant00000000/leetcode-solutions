@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
