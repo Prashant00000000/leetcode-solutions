@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0148-sort-list) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0055-jump-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
