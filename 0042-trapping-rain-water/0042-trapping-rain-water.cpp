@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void pref_max(vector<int>& prefmax, vector<int>& height) {
+    int pref_max(vector<int>& prefmax, vector<int>& height) {
         int n = prefmax.size();
 
         prefmax[0] = height[0];
@@ -8,9 +8,11 @@ public:
         for(int i = 1; i < n; i++) {
             prefmax[i] = max(prefmax[i-1], height[i]);
         }
+
+        return prefmax[n-1];
     }
 
-    void suffmax(vector<int>& suffixmax, vector<int>& height) {
+    int suffmax(vector<int>& suffixmax, vector<int>& height) {
         int n = suffixmax.size();
 
         suffixmax[n-1] = height[n-1];
@@ -18,6 +20,8 @@ public:
         for(int i = n-2; i >= 0; i--) {
             suffixmax[i] = max(suffixmax[i+1], height[i]);
         }
+
+        return suffixmax[0];
     }
 
     int trap(vector<int>& height) {
@@ -31,7 +35,6 @@ public:
         suffmax(suffixmax, height);
 
         for(int i = 0; i < n; i++) {
-
             int left_max = prefmax[i];
             int right_max = suffixmax[i];
 
