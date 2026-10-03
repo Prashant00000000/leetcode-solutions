@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## String
