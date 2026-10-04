@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [2236-root-equals-sum-of-children](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [2236-root-equals-sum-of-children](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
 | ------- |
