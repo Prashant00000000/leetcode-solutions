@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Prefix Sum
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Tree
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2236-root-equals-sum-of-children](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2236-root-equals-sum-of-children](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -312,8 +318,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
