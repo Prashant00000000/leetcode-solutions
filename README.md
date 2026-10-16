@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
