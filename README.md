@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0670-maximum-swap](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0670-maximum-swap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0670-maximum-swap](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Sliding Window
