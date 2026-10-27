@@ -1,45 +1,41 @@
+
 class Solution {
 public:
-    int pref_max(vector<int>& prefmax, vector<int>& height) {
-        int n = prefmax.size();
+    vector<int> leftmax(vector<int>& height, vector<int>& prefix_left_max) {
+        prefix_left_max.resize(height.size());
+        prefix_left_max[0] = height[0];
 
-        prefmax[0] = height[0];
-
-        for(int i = 1; i < n; i++) {
-            prefmax[i] = max(prefmax[i-1], height[i]);
+        for(int i = 1; i < height.size(); i++) {
+            prefix_left_max[i] = max(prefix_left_max[i-1], height[i]);
         }
 
-        return prefmax[n-1];
+        return prefix_left_max;
     }
 
-    int suffmax(vector<int>& suffixmax, vector<int>& height) {
-        int n = suffixmax.size();
+    vector<int> rightmax(vector<int>& height, vector<int>& prefix_right_max) {
+        prefix_right_max.resize(height.size());
+        prefix_right_max[height.size()-1] = height[height.size()-1];
 
-        suffixmax[n-1] = height[n-1];
-
-        for(int i = n-2; i >= 0; i--) {
-            suffixmax[i] = max(suffixmax[i+1], height[i]);
+        for(int i = height.size()-2; i >= 0; i--) {
+            prefix_right_max[i] = max(prefix_right_max[i+1], height[i]);
         }
 
-        return suffixmax[0];
+        return prefix_right_max;
     }
 
     int trap(vector<int>& height) {
-        int n = height.size();
+        if(height.empty()) return 0;
+
+        vector<int> Lmax;
+        vector<int> Rmax;
         int total = 0;
 
-        vector<int> prefmax(n);
-        vector<int> suffixmax(n);
+        Lmax = leftmax(height, Lmax);
+        Rmax = rightmax(height, Rmax);
 
-        pref_max(prefmax, height);
-        suffmax(suffixmax, height);
-
-        for(int i = 0; i < n; i++) {
-            int left_max = prefmax[i];
-            int right_max = suffixmax[i];
-
-            if(height[i] < left_max && height[i] < right_max) {
-                total += min(left_max, right_max) - height[i];
+        for(int i = 0; i < height.size(); i++) {
+            if(Lmax[i] > height[i] && Rmax[i] > height[i]) {
+                total += min(Lmax[i], Rmax[i]) - height[i];
             }
         }
 
