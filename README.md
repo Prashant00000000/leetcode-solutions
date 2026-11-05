@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0456-132-pattern](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [1323-maximum-69-number](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Heap (Priority Queue)
