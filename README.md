@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0055-jump-game) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Binary Lifting
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
