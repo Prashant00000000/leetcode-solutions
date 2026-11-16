@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## String
 |  |
