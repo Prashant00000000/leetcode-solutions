@@ -1,32 +1,19 @@
 class Solution {
 public:
-    bool recursion(int i, vector<int>& arr) {
-        if (arr[i] == 0) return true;
-        if (arr[i] < 0) return false;
-
-        int jump = arr[i];  
-        arr[i] = -1;       
-
-        int option1 = -1;
-        if (i + jump < arr.size()) {
-            option1 = i + jump;
-        }
-
-        int option2 = -1;
-        if (i - jump >= 0) {
-            option2 = i - jump;
-        }
-
-        if (option1 != -1 && recursion(option1, arr))
-            return true;
-
-        if (option2 != -1 && recursion(option2, arr))
-            return true;
-
+bool recursion(int i,vector<int>& arr, vector<bool>&visited){
+    int n = arr.size();
+    if( i < 0 || i>=n || visited[i]){
         return false;
     }
-
+    if(arr[i] == 0) return true;
+   visited[i] = true;
+   
+     bool option1 = recursion(i + arr[i], arr,visited);
+     bool option2 =   recursion(i - arr[i],arr,visited);
+    return option1 || option2;
+}
     bool canReach(vector<int>& arr, int start) {
-        return recursion(start, arr);
+       vector<bool> visited(arr.size(), 0);
+        return recursion(start,arr,visited);
     }
 };
