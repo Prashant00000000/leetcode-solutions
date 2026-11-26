@@ -6,9 +6,9 @@ void recursion(int i,int n, int k, vector<int>&output, vector<vector<int>>&ans){
         return;
     }
 
-    for(int j=i; i<=n; i++){
-        output.push_back(i);
-        recursion(i+1,n,k,output,ans);
+    for(int j=i; j<=n; j++){
+        output.push_back(j);
+        recursion(j+1,n,k,output,ans);
         output.pop_back();
     }
 }
@@ -19,3 +19,4 @@ void recursion(int i,int n, int k, vector<int>&output, vector<vector<int>>&ans){
          return ans;
     }
 };
+
