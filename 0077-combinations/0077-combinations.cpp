@@ -1,20 +1,21 @@
 class Solution {
 public:
-void recursion(int start , vector<int>&temp, vector<vector<int>>&ans,int k,int n){
-      if (temp.size() == k) {
-        ans.push_back(temp);
+void recursion(int i,int n, int k, vector<int>&output, vector<vector<int>>&ans){
+    if(output.size()==k){
+        ans.push_back(output);
         return;
     }
-   for (int i = start; i <= n; i++) {
-    temp.push_back(i);   
-    recursion(i + 1, temp,ans,k,n);   
-    temp.pop_back(); 
-}
+
+    for(int j=i; i<=n; i++){
+        output.push_back(i);
+        recursion(i+1,n,k,output,ans);
+        output.pop_back();
+    }
 }
     vector<vector<int>> combine(int n, int k) {
-        vector<int>temp;
-        vector<vector<int>>ans;
-      recursion(1,temp,ans,k,n);
-      return ans;
+         vector<vector<int>> ans;
+         vector<int>output;
+         recursion(1,n,k,output,ans);
+         return ans;
     }
 };
