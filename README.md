@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -452,8 +456,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
