@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Binary Lifting
 |  |
