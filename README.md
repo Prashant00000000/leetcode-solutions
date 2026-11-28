@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prashant00000000/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Prashant00000000/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2305-fair-distribution-of-cookies](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## String
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0473-matchsticks-to-square](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -470,4 +474,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Prashant00000000/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/Prashant00000000/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
